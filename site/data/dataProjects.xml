@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resume xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<site cat="JavaScript" desc="Design Patterns" type="url">http://addyosmani.com/resources/essentialjsdesignpatterns/book/#modulepatternjavascript</site>
+  <site cat="JavaScript" desc="DOM W3Schools" type="url">http://www.w3schools.com/jsref/jsref_obj_global.asp</site>
+	<site cat="JavaScript" desc="JavaScript Primitive Reference" type="url">http://www.tizag.com/javascriptT/javascriptvoid.php</site>
+	<site cat="JavaScript" desc="JavaScript Garden" type="url">http://bonsaiden.github.com/JavaScript-Garden/</site>
+	<site cat="JavaScript" desc="Test Navigator Plug-ins" type="url">http://docstore.mik.ua/orelly/web/jscript/ch13_01.html</site>
+	<site cat="JavaScript" desc="User Agent Strings" type="url">http://www.zytrax.com/tech/web/browser_ids.htm</site>
+	<site cat="JavaScript" desc="CSS VS JavaScript" type="url">http://www.comptechdoc.org/independent/web/cgi/javamanual/javastyle.html</site>
+	<site cat="JavaScript" desc="Accessing Styles Via JavaScript" type="url">http://www.quirksmode.org/dom/w3c_css.html</site>
+	<site cat="JavaScript" desc="John Resig" type="url">http://ejohn.org/</site>
+	<site cat="JavaScript" desc="Event Design Patterns" type="url">http://www.javascriptrules.com/2009/07/22/cross-browser-event-lis</site>
+	<site cat="JavaScript" desc="Primitive AJAX This Works" type="url">http://www.hunlock.com/blogs/Howto_Dynamically_Insert_Javascript_And_CSS</site>
+	<site cat="JavaScript" desc="Primitive AJAX How It Works" type="url">http://www.yourhtmlsource.com/javascript/ajax.html</site>
+	<site cat="JavaScript" desc="Primitive AJAX QuirksMode" type="url">http://www.quirksmode.org/js/xmlhttp.html</site>
+	<site cat="JavaScript" desc="AJAX Telerik Dot Net" type="url">http://www.telerik.com/support/demos/developer-tools-demos.aspx</site>
+	<site cat="JavaScript" desc="IFrames" type="url">http://www.dyn-web.com/tutorials/iframes/</site>
+	<site cat="JavaScript" desc="JQuery Fully Commented" type="url">http://appendto.com/community/jquery-vsdoc</site>
+	<site cat="JavaScript" desc="JQuery Blog West Wind" type="url">http://www.west-wind.com/weblog/posts/453942.aspx</site>
+	<site cat="JavaScript" desc="Compression Tool" type="url">http://jscompress.com/</site>
+	<site cat="JavaScript" desc="PortSwigger Web Security" type="url">http://portswigger.net/burp/downloadfree.html</site>
+	<site cat="JavaScript" desc="Window API" type="url">http://wordbeater.com/javascript-window.html</site>
+	<site cat="JavaScript" desc="Cross Domain AJAX CORS" type="url">http://www.nczonline.net/blog/2010/05/25/cross-domain-ajax-with-cross-origin-resource-sharing/</site>
+	<site cat="JavaScript" desc="XMLHttpRequest" type="url"><![CDATA[http://books.google.ie/books?id=dPhqDe0WHZ8C&lpg=PA59&ots=4iG4ykrlcS&dq=xss%20attack%20involving%20external%20servers&pg=PA67#v=onepage&q&f=false]]></site>
+	<site cat="JavaScript" desc="String to XML Object" type="url">http://www.hardcode.nl/subcategory_1/article_280-javascript-string-to-xml-object%3A.htm</site>
+</resume>

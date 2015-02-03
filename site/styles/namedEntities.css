@@ -1,0 +1,19 @@
+*{
+	padding:0;
+	margin:0;
+	border:0;
+}
+
+table{
+	margin:10px auto 0 auto;
+}
+
+
+table tbody tr td{
+	background-image:url(../images/rowA.png);
+	background-position:0px 37px;
+	color:#C0C0C0;
+	font-size:1.3em;
+	border:0;
+	height:1.7em;
+}
