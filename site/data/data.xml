@@ -32,7 +32,8 @@
 	<site cat="Event Handling" desc="Event Handling Primitive" type="url">http://www.openjs.com/articles/prevent_default_action/</site>
 	<site cat="Events" desc="Add Events Generically" type="url">http://www.codingforums.com/showthread.php?t=178714</site>	
 	<site cat="GIT" desc="Atlassian.com Tutorial" type="url">https://www.atlassian.com/git/tutorials/saving-changes</site>	
-	<site cat="GIT" desc="Crash Course" type="url">http://git.or.cz/course/svn.html</site>	
+	<site cat="GIT" desc="Crash Course" type="url">http://git.or.cz/course/svn.html</site>
+	<site cat="Google" desc="Web Page Analytics" type="url"><![CDATA[https://www.google.com/webmasters/tools/mobile-usability?siteUrl=http://www.jvmqueue.com/&utm_source=wnc_451500&utm_medium=gamma&utm_campaign=wnc_451500&hl=en]]></site>
 	<site cat="HTML" desc="HTML Template for This" type="url">http://www.zeronese.net/website-templates/template-26103.html</site>
 	<site cat="HTML5" desc="HTML5 Video FTP Upload" type="url">64.154.37.19/html5/VidTest</site>
 	<site cat="HTML5" desc="HTML5 Video On Canvas 3D" type="url">http://www.craftymind.com/2010/04/20/blowing-up-html5-video-and-mapping-it-into-3d-space/</site>
