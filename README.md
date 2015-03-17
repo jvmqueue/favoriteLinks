@@ -1,11 +1,11 @@
 # favoriteLinks
-<h1>Favorite links to various web resources</h1>
+<h3>Favorite links to various web resources</h3>
 <p>Because this is XML driven, allows access to bookmarks from any browser</p>
 
 <p><a href="http://jvmqueue.com/favoriteLinks/site/">Live URL</a></p>
 
 
-<h2>Current State</h2>
+<h3>Current State</h3>
 <p>Developed April 2010</p>
 <p>Using, but not limited to:</p>
 <ul>
