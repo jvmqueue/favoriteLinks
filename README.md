@@ -25,7 +25,7 @@
 	<li>DOM controlled via XML</li>
 </ul>
 <h3>Note</h3>
-<span style="display:block;">URL query string ?projects</span>
+<p>URL query string ?projects</p>
 <span>Swaps out data.xml with dataProjects.xml</span>
 
 
