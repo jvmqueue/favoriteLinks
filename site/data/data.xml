@@ -2,6 +2,7 @@
 <resume xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 	<site cat="Ads" desc="Test Rich Media Ad" type="url">http://browsertest.web.aol.com/ads/tstRMIF.htm</site>
 	<site cat="Android" desc="Building An App" type="url"><![CDATA[https://developer.android.com/training/basics/firstapp/index.html?hl=p]]></site>
+	<site cat="Backbone" desc="Developing Backbone.js Applications" type="url">http://addyosmani.github.io/backbone-fundamentals/#prelude</site>
 	<site cat="Bicycle" desc="Spokes Coloured Soma" type="url">http://www.airbomb.com/items.asp</site>
 	<site cat="Browsers" desc="Browser Statistics" type="url">http://marketshare.hitslink.com/browser-market-share.aspx?qprid=2</site>
 	<site cat="Browsers" desc="Browser Market Share" type="url">http://marketshare.hitslink.com/browser-market-share.aspx?qprid=0</site>
