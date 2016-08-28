@@ -2,8 +2,12 @@
 <resume xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 	<site cat="Ads" desc="Test Rich Media Ad" type="url">http://browsertest.web.aol.com/ads/tstRMIF.htm</site>
 	<site cat="Android" desc="Building An App" type="url"><![CDATA[https://developer.android.com/training/basics/firstapp/index.html?hl=p]]></site>
+	<site cat="Angular" desc="AngularJS API Docs" type="url">https://docs.angularjs.org/api?PHPSESSID=cae8e98e7ca559b4605d75c813b358ee</site>
+	<site cat="Angular" desc="AngularJS Tutorial" type="url">https://docs.angularjs.org/tutorial</site>
+	<site cat="Angular" desc="Introduction Angular YouTube" type="url"><![CDATA[https://www.youtube.com/watch?v=TRrL5j3MIvo&ebc=ANyPxKommHwxMtJCJriuRtVQqeHrIpwzMdPmDFEx_vBvgwnt_HuEKRis2F0qG87NaLWwVjQPmpKaUBfq1ehap4dIFZW-LUvLwg]]></site>
 	<site cat="Backbone" desc="Developing Backbone.js Applications" type="url">http://addyosmani.github.io/backbone-fundamentals/#prelude</site>
 	<site cat="Bicycle" desc="Spokes Coloured Soma" type="url">http://www.airbomb.com/items.asp</site>
+	<site cat="Bootstrap" desc="Basic Responsive Grid Layouts" type="url">http://getbootstrap.com/examples/grid/</site>
 	<site cat="Browsers" desc="Browser Statistics" type="url">http://marketshare.hitslink.com/browser-market-share.aspx?qprid=2</site>
 	<site cat="Browsers" desc="Browser Market Share" type="url">http://marketshare.hitslink.com/browser-market-share.aspx?qprid=0</site>
 	<site cat="Browsers" desc="User Agent String" type="url">http://www.useragentstring.com/</site>
@@ -11,19 +15,23 @@
 	<site cat="Browsers" desc="Google Chrome Unoffical Forum" type="url">http://www.chromeboard.com/showthread.php?t=10040</site>
 	<site cat="Calculations" desc="Calculate Bandwidth" type="url">http://www.phaster.com/golden_hill_free_web/ghfw_connection_speed.shtml</site>
 	<site cat="CDN" desc="Load Any Library CdnJS CloudFlare" type="url">https://cdnjs.com/</site>
+	<site cat="CSS" desc="Presentational elements and attributes" type="url">https://wiki.whatwg.org/wiki/Presentational_elements_and_attributes</site>
 	<site cat="CSS" desc="CSS Tricks Treehouse" type="url">http://css-tricks.com/</site>
 	<site cat="CSS" desc="Media Queries" type="url">http://www.javascriptkit.com/dhtmltutors/cssmediaqueries2.shtml</site>
 	<site cat="CSS" desc="@mixin" type="url">http://css-tricks.com/international-box-sizing-awareness-day/</site>
 	<site cat="CSS" desc="CSS3 Selector Test" type="url">http://tools.css3.info/selectors-test/test.html</site>
 	<site cat="CSS" desc="CSS3 Menu IDE" type="url">http://free-css-menu.com/button-text-color-android-framework.html</site>
 	<site cat="CSS" desc="Transparency" type="url">http://www.domedia.org/oveklykken/css-transparency.php</site>
+	<site cat="CSS3" desc="Generate CSS" type="url">http://www.generatecss.com/advanced/gradient-horizontal-dropdown-menu/</site>
 	<site cat="CSS3" desc="Flexible, Mobile-First Layouts" type="url">http://net.tutsplus.com/tutorials/html-css-techniques/flexible-mobile-first-layouts-with-css3/</site>
+	<site cat="CSS3" desc="Hover Corners" type="url">http://ianlunn.github.io/Hover/</site>
 	<site cat="DHTML" desc="Garrett Smith Design Patterns Flyout Menus" type="url">http://dhtmlkitchen.com/scripts/glidemenus/demo/index.jsp</site>
 	<site cat="Dictionary" desc="Dictionary" type="url">http://www.thefreedictionary.com/obfuscate</site>
 	<site cat="DOM" desc="Sweet Reference on DOM Access" type="url">http://www.xul.fr/en-xml-rss.html</site>
 	<site cat="DOM" desc="Node Types" type="url">http://www.javascriptkit.com/domref/nodetype.shtml</site>
 	<site cat="DOM" desc="Document Object Methods" type="url">http://www.javascriptkit.com/domref/documentmethods.shtml</site>
 	<site cat="DOM" desc="DOM API" type="url">http://www.zytrax.com/tech/dom/guide.html</site>
+    <site cat="DOS" desc="Run Commands" type="url">http://mypchell.com/guides/69-156-useful-run-commands</site>
 	<site cat="DOS" desc="DOS Batch" type="url">http://www.computerhope.com/issues/ch000209.htm</site>
 	<site cat="DOS" desc="DOS FindStr" type="url">http://www.computerhope.com/findstr.htm</site>
 	<site cat="DOS" desc="findstr" type="url">http://www.computerhope.com/findstr.htm</site>
@@ -34,6 +42,7 @@
 	<site cat="Entities" desc="URL Escape Characters" type="url">http://www.december.com/html/spec/esccodes.html</site>
 	<site cat="Event Handling" desc="Event Handling Primitive" type="url">http://www.openjs.com/articles/prevent_default_action/</site>
 	<site cat="Events" desc="Add Events Generically" type="url">http://www.codingforums.com/showthread.php?t=178714</site>	
+	<site cat="GIT" desc="Adding Removing Branches" type="url">http://www.gitguys.com/topics/adding-and-removing-remote-branches/</site>	
 	<site cat="GIT" desc="Atlassian.com Tutorial" type="url">https://www.atlassian.com/git/tutorials/saving-changes</site>	
 	<site cat="GIT" desc="Crash Course" type="url">http://git.or.cz/course/svn.html</site>
 	<site cat="Google" desc="Web Page Analytics" type="url"><![CDATA[https://www.google.com/webmasters/tools/mobile-usability?siteUrl=http://www.jvmqueue.com/&utm_source=wnc_451500&utm_medium=gamma&utm_campaign=wnc_451500&hl=en]]></site>
@@ -72,6 +81,7 @@
 	<site cat="HTML5" desc="Using Audio and Vid in FireFox" type="url">https://developer.mozilla.org/en/using_audio_and_video_in_firefox</site>
 	<site cat="HTML5" desc="Video Tag Events Dev Opera" type="url">http://dev.opera.com/articles/view/everything-you-need-to-know-about-html5-video-and-audio/</site>
 	<site cat="HTTP" desc="HTTP Error Codes" type="url">http://www.modemhelp.net/httperrors/httperrors.shtml</site>	
+	<site cat="JavaScript" desc="Understanding Deep Down" type="url">http://yehudakatz.com/2011/08/11/understanding-javascript-function-invocation-and-this/</site>
 	<site cat="JavaScript" desc="Eloquent JavaScript" type="url">http://eloquentjavascript.net/2nd_edition/preview/13_dom.html</site>
 	<site cat="JavaScript" desc="MVC And JavaDocs" type="url">http://javascriptmvc.com/docs/developwithgit.html</site>	
 	<site cat="JavaScript" desc="DOM Reference Dottoro" type="url">http://help.dottoro.com/ljneplda.php</site>	
@@ -107,6 +117,7 @@
 	<site cat="New Work" desc="HTML5 Video" type="url">http://www.jvmenterprise.net/html5Malaika/</site>
 	<site cat="Objective-C" desc="iOS Developer Library" type="url">http://developer.apple.com/library/ios/navigation/</site>
 	<site cat="Perl" desc="Perl" type="url">http://www.gossland.com/course/intro/running.html</site>	
+	<site cat="React" desc="React Enlightenment Repository" type="url">https://github.com/FrontendMasters/react-enlightenment</site>	
 	<site cat="References" desc="A List Apart" type="url">http://alistapart.com/about</site>	
 	<site cat="SVG" desc="SVG Tutorial" type="url">http://www.carto.net/papers/svg/samples/#base</site>
 	<site cat="Servers" desc="HTTP Message Headers" type="url">https://developer.mozilla.org/en/HTTP/Headers</site>
